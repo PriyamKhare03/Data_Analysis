@@ -1,18 +1,23 @@
-
 # 📊 Superstore Sales & Profit Dashboard (Google Sheets)
 
 ## 📌 Project Overview
-This project focuses on building an **interactive Sales & Profit Dashboard** using **Google Sheets** to analyze the Superstore dataset (2014–2017).  
-The dashboard provides a clear business view of sales performance, profitability, customer segments, discount impact, and seasonal trends.
+This project presents an interactive **Sales & Profit Dashboard** built using **Google Sheets** to analyze the Superstore dataset from **2014 to 2017**.  
+The dashboard transforms raw transactional data into clear, visual business insights using pivot tables, KPIs, and charts.
 
-The goal of this project is to demonstrate **data analysis, pivot table usage, KPI creation, and dashboard design skills** using Google Sheets.
+The objective of this project is to demonstrate **data analysis, visualization, and dashboard design skills** suitable for a **Data Analyst / Business Analyst** role.
+
+---
+
+## 📸 Dashboard Preview
+
+![Superstore Sales Dashboard](Dashboard.png)
 
 ---
 
 ## 🗂 Dataset
-- **Dataset Name:** Superstore Sales Dataset  
-- **Time Period:** 2014 – 2017  
-- **Key Columns Used:**
+- **Dataset:** Superstore Sales Data  
+- **Period Covered:** 2014 – 2017  
+- **Key Fields:**
   - Order Date, Ship Date
   - Region, State, City
   - Category, Sub-Category
@@ -23,23 +28,23 @@ The goal of this project is to demonstrate **data analysis, pivot table usage, K
 
 ## 🎯 Objectives
 - Analyze overall sales and profit performance
-- Identify top and underperforming regions and segments
-- Understand the impact of discounts on profitability
-- Analyze monthly and yearly sales trends
-- Build a clean, recruiter-ready dashboard using Google Sheets
+- Identify high and low performing regions and segments
+- Evaluate the impact of discounts on profitability
+- Understand monthly and yearly sales trends
+- Build a clean, recruiter-ready dashboard in Google Sheets
 
 ---
 
 ## 🧠 Analysis Performed
 The following pivot-based analyses were created:
 
-1. **Region-wise Sales & Profit Analysis**
-2. **Category & Sub-Category Profit Analysis**
-3. **Discount Impact on Sales & Profit**
-4. **Monthly Sales Trend (Year-wise)**
-5. **Segment-wise Sales & Profit Analysis**
+- Region-wise Sales and Profit Analysis  
+- Category and Sub-Category Profit Analysis  
+- Discount Impact on Sales and Profit  
+- Monthly Sales Trend (Year-wise)  
+- Segment-wise Sales and Profit Analysis  
 
-Each analysis is stored in a separate sheet and linked dynamically to the dashboard charts.
+Each analysis is maintained in a separate sheet and dynamically linked to the dashboard charts.
 
 ---
 
@@ -49,25 +54,60 @@ Each analysis is stored in a separate sheet and linked dynamically to the dashbo
   - Total Profit
   - Profit Margin
   - Best Performing Segment
-- **Interactive Charts:**
-  - Column Charts for comparison
-  - Trend Charts for monthly analysis
-  - Segment performance visualization
-- **Professional Layout:**
+- **Visualizations:**
+  - Column charts for comparisons
+  - Trend charts for time-series analysis
+  - Segment performance comparison
+- **Design Approach:**
   - Dashboard displays only charts and KPIs
-  - Pivot tables kept in separate analysis sheets
-  - Clean and easy-to-read design
+  - Pivot tables are stored in separate analysis sheets
+  - Clean and easy-to-understand layout
 
 ---
 
-## 🛠 Tools & Techniques Used
+## 🛠 Tools & Techniques
 - Google Sheets
 - Pivot Tables
+- KPI Calculations
 - Data Aggregation
-- KPI Calculation
-- Data Visualization (Column & Trend Charts)
-- Dashboard Design Best Practices
+- Data Visualization & Dashboard Design
 
 ---
 
 ## 📊 Sheet Structure
+- Dashboard  
+- Region_Analysis  
+- Category_Analysis  
+- Discount_Analysis  
+- Monthly_Analysis  
+- Segment_Analysis  
+
+---
+
+## 📌 Key Insights
+- Consumer segment contributes the highest sales and profit
+- Higher discounts significantly reduce profitability
+- Technology category is the most profitable
+- Sales show strong growth during year-end months
+- Regional performance varies across different U.S. regions
+
+---
+
+## 📤 Output & Sharing
+- Dashboard exported as **PDF/PNG** for resume and portfolio use
+- Google Sheets shared in **view-only mode**
+- Suitable for recruiter review and business presentation
+
+---
+
+## 🚀 Outcome
+This project demonstrates the ability to:
+- Convert raw data into meaningful insights
+- Design professional dashboards in Google Sheets
+- Communicate business performance effectively using visuals
+
+---
+
+## 👤 Author
+**Priyam Khare**  
+MCA Graduate | Aspiring Data Analyst
