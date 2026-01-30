@@ -15,7 +15,8 @@ The objective of this project is to demonstrate **data analysis, visualization, 
 ---
 
 ## 🗂 Dataset
-- **Dataset:** Superstore Sales Data  
+- **Dataset:** Superstore Sales Data
+- **Data Source:** Public dataset (open-source, publicly available)  
 - **Period Covered:** 2014 – 2017  
 - **Key Fields:**
   - Order Date, Ship Date
