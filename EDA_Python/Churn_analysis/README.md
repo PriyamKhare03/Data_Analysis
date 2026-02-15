@@ -56,6 +56,8 @@ Includes:
 
 📷 Visual Insights from Analysis
 
+📷 Visual Insights from Analysis
+
 1. Overall Churn Distribution
 
 ![Churn Distribution](images/download.png)
@@ -64,50 +66,39 @@ Includes:
 
 2. Gender vs Churn
 
-"Gender vs Churn" (images/download_1.png)
+![Gender vs Churn](images/download_1.png)
 
 ---
 
 3. Senior Citizen Analysis
 
-"Senior Citizen Count" (images/download_2.png)
-"Senior Citizen vs Churn" (images/download_3.png)
+![Senior Citizen Count](images/download_2.png)
+![Senior Citizen vs Churn](images/download_3.png)
 
 ---
 
 4. Tenure vs Churn
 
-"Tenure Distribution" (images/download_4.png)
+![Tenure Distribution](images/download_4.png)
 
 ---
 
 5. Contract Type vs Churn
 
-"Contract vs Churn" (images/download_5.png)
+![Contract vs Churn](images/download_5.png)
 
 ---
 
 6. Services Usage Analysis
 
-"Services Analysis 1" (images/download_6.png)
-"Services Analysis 2" (images/download_7.png)
+![Services Analysis 1](images/download_6.png)
+![Services Analysis 2](images/download_7.png)
 
 ---
 
 7. Internet Service Impact
 
-"Internet Service vs Churn" (images/download_8.png)
-
----
-
-8. Payment Method vs Churn
-
-"Payment Method vs Churn" (images/download_9.png)
----
-
-7. Internet Service Impact
-
-![Internet Service vs Churn](images/download (8).png)
+![Internet Service vs Churn](images/download_8.png)
 
 Outcome:
 
@@ -118,13 +109,12 @@ Outcome:
 
 8. Payment Method vs Churn
 
-![Payment Method vs Churn](images/download (9).png)
+![Payment Method vs Churn](images/download_9.png)
 
 Outcome:
 
 - Customers using Electronic Check have the highest churn
 - Automatic payment methods show better retention
-
 ---
 
 📌 Final Business Insights
