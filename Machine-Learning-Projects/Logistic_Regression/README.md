@@ -60,7 +60,7 @@ Key Observations
 
 1. Target Variable Distribution
 
-![](images/download.png)
+![](Images/download.png)
 
 Insight
 
@@ -72,7 +72,7 @@ Insight
 
 2. Target Distribution (Alternative Visualization)
 
-![](images/download_1.png)
+![](Images/download_1.png)
 
 Insight
 
@@ -83,7 +83,7 @@ Insight
 
 3. Numerical Features Boxplot
 
-![](images/download_2.png)
+![](Images/download_2.png)
 
 Insight
 
@@ -149,7 +149,7 @@ Logistic Regression implemented using PyTorch:
 
 4. Training Loss Trend
 
-![](images/download_3.png)
+![](Images/download_3.png)
 
 Insight
 
