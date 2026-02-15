@@ -60,73 +60,49 @@ Includes:
 
 "Churn Distribution" (images/download.png)
 
-Outcome:
-
-- Around 26.5% customers have churned
-- Majority of customers are still active
-
 ---
 
 2. Gender vs Churn
 
-![Gender vs Churn](images/download (1).png)
-
-Outcome:
-
-- Churn is almost equal for male and female customers
-- Gender is not a significant factor
+"Gender vs Churn" (images/download_1.png)
 
 ---
 
 3. Senior Citizen Analysis
 
-![Senior Citizen Count](images/download (2).png)
-![Senior Citizen vs Churn](images/download (3).png)
-
-Outcome:
-
-- Senior citizens form a small portion of customers
-- But they have a higher churn rate
-- This group requires focused retention strategies
+"Senior Citizen Count" (images/download_2.png)
+"Senior Citizen vs Churn" (images/download_3.png)
 
 ---
 
 4. Tenure vs Churn
 
-![Tenure Distribution](images/download (4).png)
-
-Outcome:
-
-- Customers with low tenure (1–2 months) churn the most
-- Long-term customers show higher loyalty
+"Tenure Distribution" (images/download_4.png)
 
 ---
 
 5. Contract Type vs Churn
 
-![Contract vs Churn](images/download (5).png)
-
-Outcome:
-
-- Month-to-month contracts have the highest churn
-- One-year and two-year contracts significantly improve retention
+"Contract vs Churn" (images/download_5.png)
 
 ---
 
 6. Services Usage Analysis
 
-![Services Analysis 1](images/download (6).png)
-![Services Analysis 2](images/download (7).png)
+"Services Analysis 1" (images/download_6.png)
+"Services Analysis 2" (images/download_7.png)
 
-Outcome:
+---
 
-- Customers without:
-  - Online Security
-  - Tech Support
-  - Online Backup
-    are more likely to churn
-- Value-added services help in customer retention
+7. Internet Service Impact
 
+"Internet Service vs Churn" (images/download_8.png)
+
+---
+
+8. Payment Method vs Churn
+
+"Payment Method vs Churn" (images/download_9.png)
 ---
 
 7. Internet Service Impact
