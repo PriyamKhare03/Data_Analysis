@@ -65,7 +65,7 @@ All visual outputs are stored inside the "images/" folder. Each visualization he
 
 1. Feature Distribution
 
-images/download.png
+![](images/download.png)
 
 Insight:
 
@@ -77,7 +77,7 @@ Insight:
 
 2. Feature vs Target Relationship
 
-images/download_1.png
+[](images/download_1.png)
 
 Insight:
 
@@ -89,7 +89,7 @@ Insight:
 
 3. Training Data Visualization
 
-images/download_2.png
+![](images/download_2.png)
 
 Insight:
 
@@ -101,7 +101,7 @@ Insight:
 
 4. Regression Line on Training Data
 
-images/download_3.png
+![](images/download_3.png)
 
 Insight:
 
@@ -113,7 +113,7 @@ Insight:
 
 5. Regression Line on Test Data
 
-images/download_4.png
+![](images/download_4.png)
 
 Insight:
 
@@ -125,7 +125,7 @@ Insight:
 
 6. Actual vs Predicted Values
 
-images/download_5.png
+![](images/download_5.png)
 
 Insight:
 
@@ -137,7 +137,7 @@ Insight:
 
 7. Residual Analysis
 
-images/download_6.png
+![](images/download_6.png)
 
 Insight:
 
