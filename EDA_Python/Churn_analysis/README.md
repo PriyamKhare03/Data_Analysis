@@ -58,7 +58,7 @@ Includes:
 
 1. Overall Churn Distribution
 
-"Churn Distribution" (images/download.png)
+![Churn Distribution](images/download.png)
 
 ---
 
