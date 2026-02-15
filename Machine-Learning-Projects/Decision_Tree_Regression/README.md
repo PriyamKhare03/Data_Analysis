@@ -135,12 +135,51 @@ Evaluation Metrics:
 - 📉 Mean Squared Error (MSE)
 - 📈 R² Score
 
-Insights:
+---
+🔍 Key Insights from Exploratory Analysis
 
-- Model captures complex patterns
-- Good performance on unseen data
-- Helps visualize prediction accuracy
+After analyzing the visualizations and feature relationships, the following insights were observed:
 
+📈 Price Distribution
+
+- The target variable (Price) shows a wide range of values.
+- Presence of skewness indicates that some items have significantly higher prices.
+- This suggests the model must handle variability effectively.
+
+---
+
+📊 Feature vs Price Relationships
+
+From scatter plots (download_2.png to download_13.png):
+
+- Some features show a strong positive relationship with Price, meaning higher values lead to higher prices.
+- Several features show non-linear patterns, where the relationship is not a straight line.
+- A few features have weak or scattered relationships, indicating lower predictive importance.
+- Presence of outliers, which may influence model predictions.
+
+👉 These observations justify the use of Decision Tree Regression, as it can capture non-linear relationships and handle outliers better than linear models.
+
+---
+
+🌳 Model Performance Insights
+
+From prediction and evaluation plots:
+
+- The model captures major price patterns effectively.
+- Predictions are reasonably close to actual values.
+- Some variance still exists, indicating scope for tuning (depth, pruning, etc.).
+- Overall, the model shows good generalization on unseen data.
+
+---
+
+💡 Overall Learning
+
+- Not all features equally influence the target.
+- Data visualization helps in selecting the right model.
+- Decision Trees work well when:
+  - Relationships are non-linear
+  - Data contains outliers
+  - Feature interactions are complex
 ---
 
 📁 Project Structure
